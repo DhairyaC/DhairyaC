@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/DhairyaC/DhairyaC/main/header-image.png"> </div>
 <h1 align="center">Hi 👋, I'm Dhairya Jayesh Chheda</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Data Scientist / Machine Learning Engineer / Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyac&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyac" /> </p>
 
