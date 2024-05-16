@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on Data Science projects to expand my knowledge spectrum and dive deeper into the domain.
 
-- 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, Statistics and Database Management.
+- 💬 Ask me about Data Analytics, Machine Learning, Deep Learning, Statistics, Database Management and Cloud Computing.
 
 - 📫 Reach me at dhchhed@iu.edu
 
