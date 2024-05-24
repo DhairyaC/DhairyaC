@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyac&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyac" /> </p>
 
-- 🔭 I’m currently a Data Science Graduate Student at Indiana University Bloomington.
+- 🔭 I’m a Data Science Graduate Student at Indiana University Bloomington.
 
 - 👯 I’m looking to collaborate on Data Science projects to expand my knowledge spectrum and dive deeper into the domain.
 
