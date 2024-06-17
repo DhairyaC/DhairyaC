@@ -6,7 +6,7 @@
 
 - 🔭 I’m a Data Science Graduate Student at Indiana University Bloomington.
 
-- 👯 I’m looking to collaborate on Data Science projects to expand my knowledge spectrum and dive deeper into the domain.
+- 👯 I’m looking to collaborate on Gen AI / LLM projects to expand my knowledge spectrum and dive deeper into the domain.
 
 - 💬 Ask me about Data Analytics, Machine Learning, Deep Learning, Statistics, Database Management and Cloud Computing.
 
