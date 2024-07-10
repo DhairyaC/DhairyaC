@@ -10,7 +10,7 @@
 
 - 💬 Ask me about Data Analytics, Machine Learning, Deep Learning, Statistics, Database Management and Cloud Computing.
 
-- 📫 Reach me at dhchhed@iu.edu
+- 📫 Reach me at dhairyajayeshchheda@gmail.com
 
 - ⚡ Fun fact: The future of coding is no coding.
 
