@@ -1,4 +1,3 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/DhairyaC/DhairyaC/main/header-image.png"> </div>
 <h1 align="center">Hi 👋, I'm Dhairya Jayesh Chheda</h1>
 <h3 align="center">Data Scientist / Machine Learning Engineer / Data Analyst</h3>
 
